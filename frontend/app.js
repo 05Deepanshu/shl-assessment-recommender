@@ -1,41 +1,62 @@
 const button = document.getElementById("recommendBtn");
-const queryInput = document.getElementById("query");
-const loading = document.getElementById("loading");
+const textarea = document.getElementById("query");
 const resultsDiv = document.getElementById("results");
+const loadingDiv = document.getElementById("loading");
 
-button.addEventListener("click", recommend);
+button.addEventListener("click", async () => {
+  const query = textarea.value.trim();
 
-async function recommend() {
-  const query = queryInput.value.trim();
-  if (!query) return;
+  if (!query) {
+    alert("Please paste a job description");
+    return;
+  }
 
+  loadingDiv.classList.remove("hidden");
   resultsDiv.innerHTML = "";
-  loading.classList.remove("hidden");
 
   try {
     const response = await fetch("http://127.0.0.1:8000/recommend", {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ query, top_k: 10 })
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        query: query,
+        top_k: 5,
+      }),
     });
+
+    if (!response.ok) {
+      throw new Error("API error");
+    }
 
     const data = await response.json();
-    loading.classList.add("hidden");
 
-    data.forEach(item => {
-      const card = document.createElement("div");
-      card.className = "card";
+    loadingDiv.classList.add("hidden");
 
-      card.innerHTML = `
-        <span class="badge">${item.test_type || "Assessment"}</span>
-        <h3>${item.name || item["Assessment Name"]}</h3>
-        <p>${item.description || "No description available."}</p>
-      `;
+    if (!data.length) {
+      resultsDiv.innerHTML = "<p>No recommendations found.</p>";
+      return;
+    }
 
-      resultsDiv.appendChild(card);
+    let html = "<h3>Recommended Assessments</h3><ul>";
+
+    data.forEach((item) => {
+      const name =
+        item.name ||
+        item.assessment ||
+        item["Assessment Name"] ||
+        (item.metadata && item.metadata.name) ||
+        "Unknown Assessment";
+
+      html += `<li>${name}</li>`;
     });
-  } catch (err) {
-    loading.classList.add("hidden");
-    resultsDiv.innerHTML = "<p>Failed to fetch recommendations.</p>";
+
+    html += "</ul>";
+    resultsDiv.innerHTML = html;
+  } catch (error) {
+    console.error(error);
+    loadingDiv.classList.add("hidden");
+    resultsDiv.innerHTML = "Failed to fetch recommendations.";
   }
-}
+});
