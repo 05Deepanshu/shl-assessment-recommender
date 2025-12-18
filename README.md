@@ -18,35 +18,6 @@ Built with FastAPI, Sentence Transformers, and a modern UI, this project demonst
 
  Clean, modular project structure
 
- Project Architecture
-shl-assessment-recommender/
-│
-├── backend/
-│   ├── main.py           # FastAPI app
-│   ├── recommender.py    # FAISS-based recommendation logic
-│   ├── embeddings.py     # Embedding generation & indexing
-│   ├── utils.py          # Text cleaning utilities
-│   └── __init__.py
-│
-├── frontend/
-│   ├── index.html        # UI
-│   ├── styles.css        # Styling
-│   └── app.js            # API integration
-│
-├── data/
-│   └── raw/
-│       └── shl_catalog.csv
-│
-├── vector_store/
-│   ├── index.faiss
-│   └── metadata.pkl
-│
-├── evaluation/
-│   └── evaluate.py
-│
-├── requirements.txt
-└── README.md
-
 🧠 How It Works
 
 Assessment Catalog
