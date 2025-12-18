@@ -1,4 +1,19 @@
 from fastapi import FastAPI
+
+app = FastAPI(title="SHL Assessment Recommender")
+
+@app.get("/")
+def root():
+    return {
+        "message": "SHL Assessment Recommender is running",
+        "health": "/health",
+        "docs": "/docs"
+    }
+
+
+
+
+from fastapi import FastAPI
 from pydantic import BaseModel
 from backend.recommender import recommend
 
