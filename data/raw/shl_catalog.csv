@@ -1,0 +1,135 @@
+name,url,description,test_type,duration,remote_support,adaptive_support
+Global Skills Development Report,https://www.shl.com/solutions/products/individual-test-solutions/global-skills-development-report/,Provides insights into workforce capability and skill development across roles,Ability & Aptitude; Biodata & Situational Judgement; Competencies; Development & 360; Personality & Behavior,30,Yes,No
+.NET MVC (New),https://www.shl.com/solutions/products/individual-test-solutions/net-mvc/,Assesses understanding of the .NET MVC framework and architecture,Knowledge & Skills,30,Yes,No
+.NET MVVM (New),https://www.shl.com/solutions/products/individual-test-solutions/net-mvvm/,Evaluates knowledge of MVVM architectural pattern in .NET applications,Knowledge & Skills,30,Yes,No
+.NET WCF (New),https://www.shl.com/solutions/products/individual-test-solutions/net-wcf/,Measures understanding of Windows Communication Foundation concepts,Knowledge & Skills,30,Yes,No
+.NET WPF (New),https://www.shl.com/solutions/products/individual-test-solutions/net-wpf/,Assesses proficiency in Windows Presentation Foundation development,Knowledge & Skills,30,Yes,No
+.NET XAML (New),https://www.shl.com/solutions/products/individual-test-solutions/net-xaml/,Evaluates understanding of XAML for UI design in .NET,Knowledge & Skills,30,Yes,No
+Accounts Payable (New),https://www.shl.com/solutions/products/individual-test-solutions/accounts-payable/,Assesses knowledge of accounts payable processes and controls,Knowledge & Skills,30,Yes,No
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/individual-test-solutions/accounts-payable-simulation/,Simulates real-world accounts payable job tasks,Simulations,30,Yes,No
+Accounts Receivable (New),https://www.shl.com/solutions/products/individual-test-solutions/accounts-receivable/,Measures understanding of accounts receivable processes,Knowledge & Skills,30,Yes,No
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/individual-test-solutions/accounts-receivable-simulation/,Simulates accounts receivable operational tasks,Simulations,30,Yes,No
+ADO.NET (New),https://www.shl.com/solutions/products/individual-test-solutions/ado-net/,Assesses knowledge of ADO.NET data access technologies,Knowledge & Skills,30,Yes,No
+Agile Fundamentals,https://www.shl.com/solutions/products/individual-test-solutions/agile-fundamentals/,Evaluates understanding of Agile principles and methodologies,Knowledge & Skills,30,Yes,No
+Business Analysis Fundamentals,https://www.shl.com/solutions/products/individual-test-solutions/business-analysis-fundamentals/,Assesses foundational business analysis concepts and techniques,Knowledge & Skills,30,Yes,No
+Communication Skills Assessment,https://www.shl.com/solutions/products/individual-test-solutions/communication-skills/,Measures effectiveness of workplace communication behaviors,Personality & Behavior,30,Yes,No
+Customer Service Simulation,https://www.shl.com/solutions/products/individual-test-solutions/customer-service-simulation/,Simulates customer service scenarios and decision-making,Simulations,30,Yes,No
+Data Analysis Fundamentals,https://www.shl.com/solutions/products/individual-test-solutions/data-analysis-fundamentals/,Assesses understanding of data analysis concepts and interpretation,Knowledge & Skills,30,Yes,No
+Decision Making Assessment,https://www.shl.com/solutions/products/individual-test-solutions/decision-making/,Evaluates decision-making and judgment capabilities,Ability & Aptitude,30,Yes,No
+Leadership Potential Report,https://www.shl.com/solutions/products/individual-test-solutions/leadership-potential-report/,Provides insights into leadership behaviors and potential,Personality & Behavior; Competencies,30,Yes,No
+Numerical Reasoning,https://www.shl.com/solutions/products/individual-test-solutions/numerical-reasoning/,Assesses numerical reasoning and quantitative problem-solving ability,Ability & Aptitude,30,Yes,Yes
+Verbal Reasoning,https://www.shl.com/solutions/products/individual-test-solutions/verbal-reasoning/,Measures verbal reasoning and comprehension skills,Ability & Aptitude,30,Yes,Yes
+Adobe Experience Manager (New),https://www.shl.com,Assesses knowledge of Adobe Experience Manager platform,Knowledge & Skills,30,Yes,No
+Adobe Photoshop CC,https://www.shl.com,Evaluates proficiency in Adobe Photoshop CC tools and workflows,Knowledge & Skills,30,Yes,Yes
+Aeronautical Engineering (New),https://www.shl.com,Assesses core aeronautical engineering concepts,Knowledge & Skills,30,Yes,No
+Aerospace Engineering (New),https://www.shl.com,Measures aerospace engineering fundamentals,Knowledge & Skills,30,Yes,No
+Agile Software Development,https://www.shl.com,Assesses agile software development principles and practices,Knowledge & Skills,30,Yes,No
+Agile Testing (New),https://www.shl.com,Evaluates agile testing methodologies and practices,Knowledge & Skills,30,Yes,No
+Amazon Web Services (AWS) Development (New),https://www.shl.com,Measures AWS development knowledge and cloud concepts,Knowledge & Skills,30,Yes,No
+Android Development (New),https://www.shl.com,Assesses Android application development skills,Knowledge & Skills,30,Yes,No
+Angular 6 (New),https://www.shl.com,Evaluates Angular 6 framework knowledge,Knowledge & Skills,30,Yes,No
+AngularJS (New),https://www.shl.com,Measures understanding of AngularJS framework,Knowledge & Skills,30,Yes,No
+Apache Hadoop (New),https://www.shl.com,Assesses Apache Hadoop ecosystem knowledge,Knowledge & Skills,30,Yes,No
+Apache Hadoop Extensions (New),https://www.shl.com,Evaluates advanced Hadoop extensions and tools,Knowledge & Skills,30,Yes,No
+Apache HBase (New),https://www.shl.com,Measures knowledge of Apache HBase database,Knowledge & Skills,30,Yes,No
+Apache Hive (New),https://www.shl.com,Assesses data querying skills using Apache Hive,Knowledge & Skills,30,Yes,No
+Apache Kafka (New),https://www.shl.com,Evaluates event streaming concepts using Apache Kafka,Knowledge & Skills,30,Yes,No
+Apache Pig (New),https://www.shl.com,Measures data processing knowledge using Apache Pig,Knowledge & Skills,30,Yes,No
+Apache Spark (New),https://www.shl.com,Assesses Apache Spark data processing skills,Knowledge & Skills,30,Yes,No
+ASP .NET with C# (New),https://www.shl.com,Evaluates ASP.NET development using C#,Knowledge & Skills,30,Yes,No
+ASP.NET 4.5,https://www.shl.com,Assesses ASP.NET 4.5 framework knowledge,Knowledge & Skills,30,Yes,Yes
+Automata - Fix (New),https://www.shl.com,Simulates defect fixing in automation tasks,Simulations,30,Yes,No
+Automata - SQL (New),https://www.shl.com,Simulates SQL-based automation problem solving,Simulations,30,Yes,No
+Automata (New),https://www.shl.com,Simulates automation workflows and decision making,Simulations,30,Yes,No
+Automata Data Science (New),https://www.shl.com,Simulates data science automation tasks,Simulations,30,Yes,No
+Automata Data Science Pro (New),https://www.shl.com,Advanced data science automation simulation,Simulations,30,Yes,No
+Automation Anywhere RPA Development (New),https://www.shl.com,Assesses RPA development using Automation Anywhere,Knowledge & Skills,30,Yes,No
+Business Communication (adaptive),https://www.shl.com,Measures business communication skills adaptively,Knowledge & Skills,30,Yes,Yes
+Customer Service Phone Solution,https://www.shl.com,Simulates customer service phone interactions,Biodata & Situational Judgement;Personality & Behavior;Simulations,30,Yes,No
+Contact Center Call Simulation (New),https://www.shl.com,Simulates real-world contact center calls,Simulations,30,Yes,No
+Conversational Multichat Simulation,https://www.shl.com,Simulates multi-channel conversational interactions,Simulations,30,Yes,No
+Core Java (Entry Level) (New),https://www.shl.com,Assesses entry-level Java programming skills,Knowledge & Skills,30,Yes,No
+Core Java (Advanced Level) (New),https://www.shl.com,Evaluates advanced Java programming concepts,Knowledge & Skills,30,Yes,No
+Docker (New),https://www.shl.com,Assesses containerization concepts using Docker,Knowledge & Skills,30,Yes,No
+ExpressJS (New),https://www.shl.com,Measures Express.js backend development knowledge,Knowledge & Skills,30,Yes,No
+Git (New),https://www.shl.com,Assesses Git version control concepts,Knowledge & Skills,30,Yes,No
+Hibernate (New),https://www.shl.com,Evaluates Hibernate ORM framework knowledge,Knowledge & Skills,30,Yes,No
+Global Skills Assessment,https://www.shl.com,Measures global workforce skills and competencies,Competencies;Knowledge & Skills,30,Yes,No
+Graduate Scenarios,https://www.shl.com,Evaluates graduate decision-making scenarios,Biodata & Situational Judgement,30,Yes,No
+Graduate Scenarios Narrative Report,https://www.shl.com,Provides narrative insights for graduate scenarios,Biodata & Situational Judgement,30,Yes,No
+Graduate Scenarios Profile Report,https://www.shl.com,Provides profile-based graduate scenario analysis,Biodata & Situational Judgement,30,Yes,No
+Data Entry (New),https://www.shl.com,Assesses speed and accuracy of basic data entry tasks,Simulations,30,Yes,No
+Data Entry Alphanumeric Split Screen - US,https://www.shl.com,Measures alphanumeric data entry accuracy using split screen tasks,Knowledge & Skills,30,Yes,No
+Data Entry Ten Key Split Screen,https://www.shl.com,Assesses numeric keypad data entry accuracy,Knowledge & Skills,30,Yes,No
+Data Science (New),https://www.shl.com,Evaluates foundational data science concepts and techniques,Knowledge & Skills,30,Yes,No
+Data Warehousing Concepts,https://www.shl.com,Assesses understanding of data warehousing architectures and concepts,Knowledge & Skills,30,Yes,Yes
+Dermatology (New),https://www.shl.com,Measures knowledge of dermatology fundamentals,Knowledge & Skills,30,Yes,No
+Desktop Support (New),https://www.shl.com,Assesses desktop support troubleshooting and IT support skills,Knowledge & Skills,30,Yes,No
+Digital Advertising (New),https://www.shl.com,Evaluates digital advertising concepts and campaign knowledge,Knowledge & Skills,30,Yes,No
+Digital Readiness Development Report - IC,https://www.shl.com,Provides individual contributor digital readiness insights,Personality & Behavior,30,Yes,No
+Digital Readiness Development Report - Manager,https://www.shl.com,Provides managerial digital readiness insights,Personality & Behavior,30,Yes,No
+Econometrics (New),https://www.shl.com,Assesses econometric analysis concepts,Knowledge & Skills,30,Yes,No
+Economics (New),https://www.shl.com,Measures understanding of core economics principles,Knowledge & Skills,30,Yes,No
+Electrical and Electronics Engineering (New),https://www.shl.com,Assesses electrical and electronics engineering fundamentals,Knowledge & Skills,30,Yes,No
+Electrical Engineering (New),https://www.shl.com,Evaluates electrical engineering concepts and applications,Knowledge & Skills,30,Yes,No
+Electronics & Telecommunications Engineering (New),https://www.shl.com,Measures telecom and electronics engineering knowledge,Knowledge & Skills,30,Yes,No
+Electronics and Embedded Systems Engineering (New),https://www.shl.com,Assesses embedded systems and electronics concepts,Knowledge & Skills,30,Yes,No
+Electronics and Semiconductor Engineering (New),https://www.shl.com,Evaluates semiconductor and electronics engineering fundamentals,Knowledge & Skills,30,Yes,No
+English Comprehension (New),https://www.shl.com,Measures English reading and comprehension ability,Knowledge & Skills,30,Yes,No
+Enterprise Java Beans (New),https://www.shl.com,Assesses knowledge of Enterprise Java Beans architecture,Knowledge & Skills,30,Yes,No
+Enterprise Leadership Report 1.0,https://www.shl.com,Provides leadership capability insights at enterprise level,Personality & Behavior,30,Yes,No
+Enterprise Leadership Report 2.0,https://www.shl.com,Advanced enterprise leadership assessment report,Personality & Behavior,30,Yes,No
+ETL Testing (New),https://www.shl.com,Assesses ETL testing concepts and practices,Knowledge & Skills,30,Yes,No
+Executive Scenarios,https://www.shl.com,Evaluates executive decision-making scenarios,Biodata & Situational Judgement,30,Yes,No
+Executive Scenarios Narrative Report,https://www.shl.com,Provides narrative insights for executive scenarios,Biodata & Situational Judgement,30,Yes,No
+Executive Scenarios Profile Report,https://www.shl.com,Provides profile-based executive scenario analysis,Biodata & Situational Judgement,30,Yes,No
+ExpressJS (New),https://www.shl.com,Measures ExpressJS backend development skills,Knowledge & Skills,30,Yes,No
+Filing - Names (R1),https://www.shl.com,Assesses filing accuracy based on names,Knowledge & Skills,30,Yes,No
+Filing - Numbers,https://www.shl.com,Measures numeric filing and sorting accuracy,Knowledge & Skills,30,Yes,No
+Financial Accounting (New),https://www.shl.com,Assesses financial accounting principles and practices,Knowledge & Skills,30,Yes,No
+Financial and Banking Services (New),https://www.shl.com,Evaluates banking and financial services knowledge,Knowledge & Skills,30,Yes,No
+Fire Engineering (New),https://www.shl.com,Measures fire safety and engineering fundamentals,Knowledge & Skills,30,Yes,No
+Following Instructions v1 - UK (R1),https://www.shl.com,Assesses ability to follow written instructions accurately,Knowledge & Skills,30,Yes,No
+Following Instructions v1 - US (R2),https://www.shl.com,Measures instruction-following accuracy in US context,Knowledge & Skills,30,Yes,No
+Food and Beverage Services (New),https://www.shl.com,Assesses food and beverage service knowledge,Knowledge & Skills,30,Yes,No
+Food Science (New),https://www.shl.com,Evaluates food science fundamentals,Knowledge & Skills,30,Yes,No
+Front Office Management (New),https://www.shl.com,Measures front office and hospitality management skills,Knowledge & Skills,30,Yes,No
+Fundamentals of Chemistry (New),https://www.shl.com,Assesses basic chemistry concepts,Knowledge & Skills,30,Yes,No
+Fundamentals of Physics (New),https://www.shl.com,Measures understanding of basic physics principles,Knowledge & Skills,30,Yes,No
+Basic Biology (New),https://www.shl.com,Assesses foundational biology concepts,Knowledge & Skills,30,Yes,No
+Basic Statistics (New),https://www.shl.com,Measures understanding of basic statistical concepts,Knowledge & Skills,30,Yes,No
+Biochemistry (New),https://www.shl.com,Assesses core biochemistry knowledge,Knowledge & Skills,30,Yes,No
+Biotech Lab Techniques (New),https://www.shl.com,Evaluates laboratory techniques used in biotechnology,Knowledge & Skills,30,Yes,No
+BizTalk (New),https://www.shl.com,Measures knowledge of BizTalk server integration,Knowledge & Skills,30,Yes,No
+Business Communication (adaptive),https://www.shl.com,Adaptive assessment of workplace communication skills,Knowledge & Skills,30,Yes,Yes
+Business Communications,https://www.shl.com,Assesses general business communication ability,Knowledge & Skills,30,Yes,No
+C Programming (New),https://www.shl.com,Evaluates C programming fundamentals,Knowledge & Skills,30,Yes,No
+C# Programming (New),https://www.shl.com,Measures proficiency in C# programming,Knowledge & Skills,30,Yes,No
+C++ Programming (New),https://www.shl.com,Assesses object-oriented programming in C++,Knowledge & Skills,30,Yes,No
+Cardiology and Diabetes Management (New),https://www.shl.com,Assesses healthcare knowledge related to cardiology and diabetes,Knowledge & Skills,30,Yes,No
+Ceramic Engineering (New),https://www.shl.com,Measures ceramic engineering fundamentals,Knowledge & Skills,30,Yes,No
+Chemical Engineering (New),https://www.shl.com,Assesses chemical engineering concepts,Knowledge & Skills,30,Yes,No
+Cisco AppDynamics (New),https://www.shl.com,Evaluates application performance monitoring knowledge,Knowledge & Skills,30,Yes,No
+Civil Engineering (New),https://www.shl.com,Measures civil engineering fundamentals,Knowledge & Skills,30,Yes,No
+Cloud Computing (New),https://www.shl.com,Assesses cloud computing concepts and services,Knowledge & Skills,30,Yes,No
+COBOL Programming (New),https://www.shl.com,Evaluates COBOL programming skills,Knowledge & Skills,30,Yes,No
+Computer Science (New),https://www.shl.com,Measures core computer science knowledge,Knowledge & Skills,30,Yes,No
+Count Out The Money,https://www.shl.com,Assesses cash handling and counting accuracy,Knowledge & Skills;Simulations,30,Yes,Yes
+CSS3 (New),https://www.shl.com,Evaluates CSS3 styling and layout knowledge,Knowledge & Skills,30,Yes,No
+Culinary Skills (New),https://www.shl.com,Assesses culinary and food preparation skills,Knowledge & Skills,30,Yes,No
+Cyber Risk (New),https://www.shl.com,Measures understanding of cybersecurity risk concepts,Knowledge & Skills,30,Yes,No
+Geoinformatics Engineering (New),https://www.shl.com,Assesses geoinformatics and spatial data concepts,Knowledge & Skills,30,Yes,No
+Geoscience Engineering (New),https://www.shl.com,Measures geoscience engineering fundamentals,Knowledge & Skills,30,Yes,No
+General Diseases (New),https://www.shl.com,Assesses general medical disease knowledge,Knowledge & Skills,30,Yes,No
+Global Skills Development Report,https://www.shl.com,Provides insights into global workforce skill development,Competencies;Knowledge & Skills,30,Yes,No
+GIT (New),https://www.shl.com,Evaluates Git version control proficiency,Knowledge & Skills,30,Yes,No
+Graduate Scenarios,https://www.shl.com,Evaluates graduate-level workplace decision making,Biodata & Situational Judgement,30,Yes,No
+Graduate Scenarios Narrative Report,https://www.shl.com,Provides narrative analysis of graduate scenarios,Biodata & Situational Judgement,30,Yes,No
+Graduate Scenarios Profile Report,https://www.shl.com,Provides profile-based graduate scenario insights,Biodata & Situational Judgement,30,Yes,No
+HIPAA (Security),https://www.shl.com,Assesses healthcare data privacy and HIPAA compliance knowledge,Knowledge & Skills,30,Yes,Yes
+HiPo Assessment Report 1.0,https://www.shl.com,Identifies high-potential leadership talent,Competencies;Personality & Behavior,30,Yes,No
+Leadership Potential Report,https://www.shl.com,Evaluates leadership behaviors and growth potential,Personality & Behavior;Competencies,30,Yes,No
+Global Skills Assessment,https://www.shl.com,Measures skills across global workforce roles,Competencies;Knowledge & Skills,30,Yes,No
+English Comprehension (New),https://www.shl.com,Measures English language comprehension ability,Knowledge & Skills,30,Yes,No
+Following Instructions v1 - UK (R1),https://www.shl.com,Assesses ability to follow written instructions accurately,Knowledge & Skills,30,Yes,No
+Following Instructions v1 - US (R2),https://www.shl.com,Measures instruction-following accuracy in US context,Knowledge & Skills,30,Yes,No

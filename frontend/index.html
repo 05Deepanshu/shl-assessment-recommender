@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>SHL Assessment Recommender</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="container">
+    <h1>SHL Assessment Recommender</h1>
+    <p class="subtitle">
+      Paste a job description and get the most relevant SHL assessments
+    </p>
+
+    <textarea
+      id="query"
+      placeholder="Example: Junior data analyst with SQL, Python, statistics..."
+    ></textarea>
+
+    <button id="recommendBtn">Recommend Assessments</button>
+
+    <div id="loading" class="loading hidden">
+      Finding best assessments...
+    </div>
+
+    <div id="results" class="results"></div>
+
+    <footer>
+      Powered by Sentence Transformers + FAISS
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

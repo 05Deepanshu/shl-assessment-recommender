@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+scikit-learn
+python-dotenv
